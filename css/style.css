@@ -502,7 +502,7 @@
 
 html {
     scroll-behavior: smooth;
-    scroll-padding-top: 100px; /* Ajuste conforme a altura do seu menu */
+    scroll-padding-top: 140px; /* Ajuste conforme a altura do seu menu */
 }
 
 /* Garante que o menu não "atropele" o topo da página no mobile */
